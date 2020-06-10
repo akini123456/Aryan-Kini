@@ -10,6 +10,6 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: DonaldTrump # DO NOT include the @ character, or else the build will fail!
 github_username:  Akini123456 # DO NOT include the @ character, or else the build will fail!
-theme: alembic-jekyll-theme
+theme: jekyll-theme-architect
 
 show_excerpts: true # set to false to remove excerpts on the homepage
